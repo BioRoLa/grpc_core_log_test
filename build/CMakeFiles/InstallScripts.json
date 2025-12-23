@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hiho817/corgi_ws/log_test/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

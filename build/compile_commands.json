@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hiho817/corgi_ws/log_test/build",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -isystem /home/hiho817/corgi_ws/install/include  -w -O3 -std=gnu++14 -o CMakeFiles/log_subscriber.dir/log_subscriber.cpp.o -c /home/hiho817/corgi_ws/log_test/log_subscriber.cpp",
+  "file": "/home/hiho817/corgi_ws/log_test/log_subscriber.cpp",
+  "output": "CMakeFiles/log_subscriber.dir/log_subscriber.cpp.o"
+}
+]
