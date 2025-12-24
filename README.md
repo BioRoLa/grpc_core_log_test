@@ -20,7 +20,7 @@ This program subscribes to the `/log` topic published by fpga_driver and display
 ```bash
 cd log_test
 mkdir build && cd build
-cmake .. -DCMAKE_PREFIX_PATH=$HOME/corgi_ws/install
+cmake .. -DCMAKE_PREFIX_PATH=$HOME/corgi_ws/install -DCMAKE_INSTALL_PREFIX=$HOME/corgi_ws/install -DOPENSSL_ROOT_DIR=$HOME/corgi_ws/install/ssl
 make -j16
 ```
 
